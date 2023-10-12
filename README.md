@@ -9,8 +9,7 @@ This repository contains the material for the SAP TechEd 2022 session called 116
 ## Overview
 
 This session introduces attendees to the fundamental concepts of Identity Access Management in SAP S/4HANA Cloud, public edition. Identity Access Management ensures that Business Users have the right access to the right systems at the right time.
-Therefore, it enables the efficient, secure and compliant execution of business processes. In SAP S/4HANA Cloud, public edition, access is controlled by a role-based, personalized and real-time authorization management. SAP Fiori apps simplify the business user and business role maintenance.
-
+Therefore, it enables the efficient, secure and compliant execution of business processes. In SAP S/4HANA Cloud, public edition, access management is controlled by a role-based, personalized and real-time authorization management. SAP Fiori apps simplify the business user and business role maintenance.
 
 ## Requirements
 
