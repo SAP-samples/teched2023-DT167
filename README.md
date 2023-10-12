@@ -1,14 +1,16 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT167)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT167)
 
-# Session ID - Session Title
+# 116793 - Identity Access Management in SAP S/4HANA Cloud, Public Edition
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called 116793 - Identity Access Management in SAP S/4HANA Cloud, Public Edition.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the fundamental concepts of Identity Access Management in SAP S/4HANA Cloud, public edition. Identity Access Management ensures that Business Users have the right access to the right systems at the right time.
+Therefore, it enables the efficient, secure and compliant execution of business processes. In SAP S/4HANA Cloud, public edition, access is controlled by a role-based, personalized and real-time authorization management. SAP Fiori apps simplify the business user and business role maintenance.
+
 
 ## Requirements
 
