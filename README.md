@@ -13,7 +13,11 @@ Therefore, it enables the efficient, secure and compliant execution of business 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are access to the following systems:
+
+- SAP S/4HANA Cloud, public edition
+- SAP Cloud Identity Services - Identity Authentication
+- SAP Cloud Identity Services - Identity Provisioning
 
 ## Exercises
 
