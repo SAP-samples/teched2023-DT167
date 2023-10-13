@@ -23,13 +23,16 @@ Second, we will navigate to the Identity Authentication service via the SAP S/4H
 
 Finally, we will navigate to the Identity Provisioning service. We will verify that necessary source and target systems are set up for user provisioning.
 
-1. Click on the __Source Systems__ tile under the __Identity Provisioning__ section. The list of pre-configured source systems is displayed.
-2. Verify
+1. Click on the __Source Systems__ tile under the __Identity Provisioning__ section.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/2ed507b05be0ec535ecf4dd7fc0bb2f17f9a5552/exercises/ex0/images/IPS_source_system.png)
+
+2. The list of pre-configured source systems is displayed.Verify
 
 After completing these steps you will have....
 
 1.	Click here.
-<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/2ed507b05be0ec535ecf4dd7fc0bb2f17f9a5552/exercises/ex0/images/IPS_source_system.png)
+
 
 ## Summary
 
