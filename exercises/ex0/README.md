@@ -41,7 +41,7 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
    * S4HANAmyXXXXXX - target
    * SAC-myXXXXXX-target
 
-<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0a1fa1e8da9754b569415702949a19a82df0af65/exercises/ex0/images/Verify_ips_target_systems.png)
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/17b08c1d03990dbf4dffaa4afe2de3d9cd20a3ac/exercises/ex0/images/Verify_ips_target_systems.png)
 
 ## Summary
 
