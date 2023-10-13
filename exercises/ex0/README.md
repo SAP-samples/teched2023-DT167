@@ -19,7 +19,7 @@ Second, we will navigate to the Identity Authentication service via the SAP S/4H
 1. a
 2. Click on the __Identity Provider - Admin Console__ app. The admin console of the Identity Authentication service is displayed.
 
-## Access SAP Cloud Identity Services - Identity Authentication
+## Access SAP Cloud Identity Services - Identity Provisioning
 
 Finally, we will navigate to the Identity Provisioning service. We will verify that necessary source and target systems are set up for user provisioning.
 
