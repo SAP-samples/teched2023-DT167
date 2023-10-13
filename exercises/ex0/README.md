@@ -31,6 +31,8 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
    * IAS formyXXXXXX - source
    * S4-myXXXXXX-source
 
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0a1fa1e8da9754b569415702949a19a82df0af65/exercises/ex0/images/Verify_ips_source_systems.png)
+
 3. Click on the __Target Systems__ tile under the __Identity Provisioning__ section.
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/6930836a81ac06e4d1c3bf5d9edf405e4002b910/exercises/ex0/images/IPS_target_system.png)
@@ -38,6 +40,8 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 4. The list of pre-configured target systems is displayed. Verify you can see the following target systems
    * S4HANAmyXXXXXX - target
    * SAC-myXXXXXX-target
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0a1fa1e8da9754b569415702949a19a82df0af65/exercises/ex0/images/Verify_ips_target_systems.png)
 
 ## Summary
 
