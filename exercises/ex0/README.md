@@ -1,8 +1,17 @@
-# Level 1 Heading
+# Prerequisites
 
 In this exercise, you will check if you can generally access the SAP systems for completing the following exercises.
 
-## Level 2 Heading
+## Access SAP S/4HANA Cloud System
+
+1. Go to https://myXXXXXX.s4hana.cloud.sap/ui#Shell-home
+2. Enter the following User Name and Password to access the system
+
+## Access SAP Cloud Identity Services - Identity Authentication
+
+
+
+## Access SAP Cloud Identity Services - Identity Authentication
 
 After completing these steps you will have....
 
