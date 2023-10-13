@@ -5,9 +5,9 @@ In this exercise, you will check if you can generally access the SAP systems for
 ## Access SAP S/4HANA Cloud System
 
 1. Go to https://myXXXXXX.s4hana.cloud.sap/ui#Shell-home
-2. Enter the following User Name and Password to access the system
-   * User Name:
-   * Password: 
+2. Enter the following User Name and Password to access the SAP S/4HANA Cloud system
+   * __User Name__: TECHED_XX
+   * __Password__: TECHED_XX
 
 ## Access SAP Cloud Identity Services - Identity Authentication
 
