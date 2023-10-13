@@ -29,7 +29,7 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 After completing these steps you will have....
 
 1.	Click here.
-<br>![](exercises/ex0/images/IPS_source_system.png)
+<br>![](exercises/ex0/images/00_00_0010.png)
 
 ## Summary
 
