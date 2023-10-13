@@ -29,9 +29,9 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 
 2. The list of pre-configured source systems is displayed.Verify
 
-After completing these steps you will have....
+3. Click on the __Target Systems__ tile under the __Identity Provisioning__ section.
 
-1.	Click here.
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/6930836a81ac06e4d1c3bf5d9edf405e4002b910/exercises/ex0/images/IPS_target_system.png)
 
 
 ## Summary
