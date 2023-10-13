@@ -1,6 +1,6 @@
 # Prerequisites
 
-In this exercise, you will check if you can generally access the SAP systems for completing the following exercises.
+In this exercise, you will check if you can generally access the SAP systems for completing the subsequent exercises.
 
 ## Access SAP S/4HANA Cloud System
 
