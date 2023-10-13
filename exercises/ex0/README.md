@@ -1,6 +1,6 @@
 # Level 1 Heading
 
-In this exercise, you will...
+In this exercise, you will check if you can generally access the SAP systems for completing the following exercises.
 
 ## Level 2 Heading
 
