@@ -29,7 +29,7 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 After completing these steps you will have....
 
 1.	Click here.
-<br>![](exercises/ex0/images/IPS_source_system.png)
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/2ed507b05be0ec535ecf4dd7fc0bb2f17f9a5552/exercises/ex0/images/IPS_source_system.png)
 
 ## Summary
 
