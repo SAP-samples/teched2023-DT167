@@ -28,20 +28,23 @@ Worker ID  | S4_JOHN_XX
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/56ec0b92da7cd26b32acc39a0d0f95956555d944/exercises/ex1/images/John_S4_00.png)
 
 4. After creating the basic worker, choose __Edit__.
-6. Go to the __Work Agreements__ tab and choose __Create__.
-7. Enter a __Start Date__ and choose __Create__.
+5. Go to the __Work Agreements__ tab and choose __Create__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/aec3bfa499bdfcf2f6652b0157c76e73d9205362/exercises/ex1/images/Create_WA.png)
+
+6. Enter a __Start Date__ and choose __Create__.
 
 Field | Value
 ------------- | -------------
-Start Date | 01.01.2023
+Start Date | 01/01/2023
 
-9. Choose a __Company Code__ from the value help.
+7. Choose a __Company Code__ from the value help.
 
 Field | Value
 ------------- | -------------
 Company Code  | 1010
  
-10. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
+8. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
 
 Field | Value
 ------------- | -------------
@@ -49,10 +52,10 @@ Cost Center  | 1010
 Weekly Working Days  | 5
 Weekly Working Hours  | 40
 
-12. Choose __Apply__ and __Save__.
-13. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
-14. In the __User Data__ section, enter a __User Name__.
-15. Choose __Save__.
+9. Choose __Apply__ and __Save__.
+10. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
+11. In the __User Data__ section, enter a __User Name__.
+12. Choose __Save__.
 
 ### Exercise 1.1.2 Exporting Business User from SAP S/4HANA Cloud
 
