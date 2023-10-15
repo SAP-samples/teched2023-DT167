@@ -105,6 +105,8 @@ Weekly Working Hours  | 40
 
 ## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
+### Exercise 1.1.1 Creating Worker and Work Agreement
+
 In this identity management scenario, workers and work agreements are onboarded to SAP S/4HANA Cloud. The corresponding users are initially created in the Identity Directory.
 
 1. Open the __Manage Workforce__ app.
@@ -143,6 +145,9 @@ Weekly Working Hours  | 40
 
 9. Choose __Apply__ and __Save__.
 
+### Exercise 1.1.2 Creating User in Identity Authentication Service
+
+### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
 
 ## Summary
 
