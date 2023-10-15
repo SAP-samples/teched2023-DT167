@@ -45,7 +45,19 @@ Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/f4c37ca3316c5a579bdfc90ba0032f0b2fef694e/exercises/ex2/images/Maintain_restrictions.png)
 
-8. Maintain instance-based restrictions for all required business objects (following the requirements of your local authorization concept).
+8. Maintain instance-based restrictions as follows:
+
+* General
+
+Business Catalog  | Business Catalog ID
+------------- | -------------
+Master Data - Manage Workforce | SAP_BUM_BC_MNG_WORKFORCE_PC
+Identity and Access Management - User Management  | SAP_CORE_BC_IAM_UM
+Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
+
+* Business Partner Processing (B_BUP_DCPD)
+* Business Role User Assignment (S_BRL_ASG)
+
 9. Save the business role to activate it.
 
 ## Exercise 2.2 Creating SAP Fiori Spaces and Pages
