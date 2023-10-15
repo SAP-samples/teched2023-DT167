@@ -24,6 +24,9 @@ The requirements to follow the exercises in this repository are access to the fo
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Prerequisites](exercises/ex0/)
+    - [Exercise 0.1 - Access SAP S/4HANA Cloud System](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex0#access-sap-s4hana-cloud-system)
+    - [Exercise 0.2 - Access SAP Cloud Identity Services - Identity Authentication](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex0#access-sap-cloud-identity-services---identity-authentication)
+    - [Exercise 0.3 - Access SAP Cloud Identity Services - Identity Provisioning](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex0#access-sap-cloud-identity-services---identity-provisioning)  
 - [Exercise 1 - Creating Business User in SAP S/4HANA Cloud](exercises/ex1/)
     - [Exercise 1.1 - SAP S/4HANA Cloud as the Leading System for Users](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - SAP Cloud Identity Services as the Leading System for Users](exercises/ex1#exercise-12-sub-exercise-2-description)
