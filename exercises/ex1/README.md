@@ -174,7 +174,7 @@ Account Activation  | Set status active
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/28b4e78528b58655ec5629eaee8088fbe8668024/exercises/ex0/images/IPS_source_system.png)
 
-2. Select the source system.
+2. Select the source system __IAS formyXXXXXX - source__.
 3. Go to the __Jobs__ tab.
 4. For Job Type __Read Job__ select the __Run Now__ action.
 5. Verify in the SAP S/4HANA Cloud system that the business user is created. 
