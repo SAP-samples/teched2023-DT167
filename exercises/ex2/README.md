@@ -80,6 +80,8 @@ User Group  | * (Unrestricted Access)
 
 ## Exercise 2.2 Creating SAP Fiori Spaces and Pages
 
+### Exercise 2.2.1 Creating SAP Fiori Spaces and assign it to Business Role
+
 1. Open the __Maintain Business Role__ app. Select the business role __Z_ROLE_TECHED_XX__ which you created in exercise 2.1.
 2. Select the __Assigned Launchpad Spaces__ tab and click on __Edit__.
 3. Select __Add__. In the Assign Space to Business Role option, select __Create New Space__.
@@ -95,11 +97,14 @@ Space Title  | Space TechEd XX
 Create Page from Business Catalogs and Groups  | No
 
 5. Select __Save__.
-6. Open the __Manage Launchpad Pages__ app.
+
+### Exercise 2.2.2 Creating SAP Fiori Pages and assign it to Space
+
+1. Open the __Manage Launchpad Pages__ app.
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/d00c7f190df601e0244efd6e86280cd02e3cc6c0/exercises/ex2/images/Manage_launchpad_pages.png)
 
-7. Select the __Create__ button and enter the following details:
+2. Select the __Create__ button and enter the following details:
 
 Field  | Value
 ------------- | -------------
@@ -107,8 +112,8 @@ ID | Z_TECHED_PAGE_WFD
 Description  | Custom Page Workforce
 Title  | Workforce Master
 
-8. Confirm your input by clicking on __Create__.
-9. Repeat step 7 and 8 to create two more pages with the following details:
+3. Confirm your input by clicking on __Create__.
+4. Repeat step 2 and 3 to create two more pages with the following details:
 
 * User Management
 
@@ -126,8 +131,8 @@ ID | Z_TECHED_PAGE_SEC
 Description  | Custom Page Security
 Title  | Security
 
-10. Open the __Manage Launchpad Spaces__ app.
-11. Select the space __Z_TECHED_SPACE_XX__ which you created in step 4. Select __Edit__ to assign the pages (step 7-9) to your custom space.
+5. Open the __Manage Launchpad Spaces__ app.
+6. Select the space __Z_TECHED_SPACE_XX__ which you created in step 4. Select __Edit__ to assign the pages (step 7-9) to your custom space.
 12. 
 
 ## Summary
