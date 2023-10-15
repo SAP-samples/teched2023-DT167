@@ -159,6 +159,15 @@ Weekly Working Hours  | 40
 
 5. Fill in the required fields in the dialog box.
 
+Field | Value
+------------- | -------------
+First Name  | John
+Last Name  | CIS XX
+Email  | john.cis_xx@example.com
+Login Name  | CIS_JOHN_XX
+User Type  | Employee
+Account Activation  | Set status active
+
 ### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
 
 1. Open the Identity Authentication service administration console.
