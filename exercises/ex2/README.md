@@ -10,7 +10,16 @@ A SAP Fiori __Space__ is the unit that holds one or more SAP Fiori __Pages__. It
 
 ## Exercise 2.1 Creating Business Roles
 
+1. Open the __Maintain Business Roles__ app.
 
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/1a19d0889871d23432de471be513acf1a0f7bb5a/exercises/ex2/images/Maintain_business_roles.png)
+
+2. On the initial screen, select __New__.
+3. Add general role details, such as business role name, ID and description.
+4. On the Assigned Business Catalogs tab, select Add to add the required business catalogs. Select the catalogs according to the business activities that the users with this role need to perform. Select Apply.
+5. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. If you want to change these restrictions, select Maintain Restrictions.
+6. Maintain instance-based restrictions for all required business objects (following the requirements of your local authorization concept).
+7. Save the business role to activate it.
 
 ## Exercise 2.2 Creating SAP Fiori Spaces and Pages
 
