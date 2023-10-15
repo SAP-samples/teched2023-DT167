@@ -34,10 +34,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Creating Business Roles](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Creating SAP Fiori Spaces and Pages](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
