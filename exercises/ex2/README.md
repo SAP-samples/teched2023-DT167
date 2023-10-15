@@ -53,11 +53,14 @@ Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
 * General
 
-Business Catalog  | Business Catalog ID
+Restriction Type  | Value
 ------------- | -------------
-Master Data - Manage Workforce | SAP_BUM_BC_MNG_WORKFORCE_PC
-Identity and Access Management - User Management  | SAP_CORE_BC_IAM_UM
-Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
+Company Code | 1010
+User Group  | * (Unrestricted Access)
+Cost Center  | * (Unrestricted Access)
+Customer Account Group  | * (Unrestricted Access)
+BP Role  | BUP003, BUP010
+Manage Workforce Access  | 01
 
 * Business Partner Processing (B_BUP_DCPD)
 * Business Role User Assignment (S_BRL_ASG)
