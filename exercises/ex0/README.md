@@ -54,4 +54,4 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 
 ## Summary
 
-Now that you have verified your access to the SAP systems, we can continue with [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have verified your access to the SAP systems, we can continue with [Exercise 1 - Creating Business Users in SAP S/4HANA Cloud](../ex1/README.md)
