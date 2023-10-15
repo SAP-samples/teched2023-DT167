@@ -147,7 +147,20 @@ Weekly Working Hours  | 40
 
 ### Exercise 1.1.2 Creating User in Identity Authentication Service
 
+1. Open the Identity Authentication service administration console.
+2. Choose the __User Management__ tile.
+3. The system displays the first 20 users in the tenant sorted by their user ID number.
+4. Press __Add__.
+5. Fill in the required fields in the dialog box.
+
 ### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
+
+1. Open the Identity Authentication service administration console.
+2. Go to __Source Systems__.
+3. Select the source system.
+4. Go to the __Jobs__ tab.
+5. For Job Type __Read Job__ select the __Run Now__ action.
+6. Verify in the SAP S/4HANA Cloud system that the business user is created. 
 
 ## Summary
 
