@@ -25,9 +25,11 @@ Field  | Value
 Business Role ID | Z_ROLE_TECHED_XX
 Business Role Description  | Custom business role TechEd XX
 
-4. On the __Assigned Business Catalogs__ tab, select __Add__ to add below business catalogs.
+4. On the __Assigned Business Catalogs__ tab, select __Add__ to add business catalogs.
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/355ffe6f4126c879d083124bd3ca6f79d1e0ba42/exercises/ex2/images/Add_business_catalogs.png)
+
+5. Add below mentioned business catalogs.
 
 Business Catalog  | Business Catalog ID
 ------------- | -------------
@@ -35,10 +37,10 @@ Master Data - Manage Workforce | SAP_BUM_BC_MNG_WORKFORCE_PC
 Identity and Access Management - User Management  | SAP_CORE_BC_IAM_UM
 Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
-5. Select __Apply__.
-6. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. If you want to change these restrictions, select Maintain Restrictions.
-7. Maintain instance-based restrictions for all required business objects (following the requirements of your local authorization concept).
-8. Save the business role to activate it.
+6. Select __Apply__.
+7. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. If you want to change these restrictions, select Maintain Restrictions.
+8. Maintain instance-based restrictions for all required business objects (following the requirements of your local authorization concept).
+9. Save the business role to activate it.
 
 ## Exercise 2.2 Creating SAP Fiori Spaces and Pages
 
