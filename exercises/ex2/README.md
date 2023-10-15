@@ -51,7 +51,7 @@ Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
 9. Maintain instance-based restrictions as follows:
 
-* General
+* __General__
 
 Restriction Type  | Value
 ------------- | -------------
@@ -62,14 +62,14 @@ Customer Account Group  | * (Unrestricted Access)
 BP Role  | BUP003, BUP010
 Manage Workforce Access  | 01
 
-* Business Partner Processing (B_BUP_DCPD)
+* __Business Partner Processing (B_BUP_DCPD)__
 
 Restriction Field  | Value
 ------------- | -------------
 Data Controller | * (Unrestricted Access)
 Purpose  | * (Unrestricted Access)
 
-* Business Role User Assignment (S_BRL_ASG)
+* __Business Role User Assignment (S_BRL_ASG)__
 
 Restriction Field  | Value
 ------------- | -------------
