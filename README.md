@@ -34,6 +34,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Creating Business Roles](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Creating SAP Fiori Spaces and Pages](exercises/ex2#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Quiz](exercises/ex3/)
+    - [Exercise 3.1 - Business Roles](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex3#exercise-31-business-users)
+    - [Exercise 3.2 - Business Roles](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex3#exercise-32-business-roles)
+    - [Exercise 3.3 - Business Catalogs](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex3#exercise-33-business-catalogs)
+    - [Exercise 3.4 - Restriction Types](https://github.com/SAP-samples/teched2023-DT167/tree/main/exercises/ex3#exercise-34-restriction-types)
+    - [Exercise 3.5 - Reporting](https://github.com/SAP-samples/teched2023-DT167/blob/main/exercises/ex3/README.md#exercise-35-reporting)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
