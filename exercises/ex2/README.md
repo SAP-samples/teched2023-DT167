@@ -76,7 +76,7 @@ Restriction Field  | Value
 Role Group | * (Unrestricted Access)
 User Group  | * (Unrestricted Access)
 
-9. Save the business role to activate it.
+9. Select __Save__ to activate the business role.
 
 ## Exercise 2.2 Creating SAP Fiori Spaces and Pages
 
