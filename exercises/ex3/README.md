@@ -55,6 +55,11 @@ In this exercise, we will test your knowledge by going through some example use 
   <p>Please check the <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/f249696fdfb8401eb18cf3ade365b8c1.html?locale=en-US"> IAM Key Figures</a> app</p>
 </details>
 
+<details>
+  <summary>Is there a way to find out which users have access to a specific app?</summary>
+  <p>Please check the <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/82d17cfdb0f3464b9735e4ded705f71f.html?locale=en-US"> IAM Information System</a> app. Change the Main Entity to Application.</p>
+</details>
+
 ## Summary
 
 __Congratulations__! You've completed all exercises.
