@@ -80,6 +80,9 @@ Weekly Working Hours  | 40
 ### Exercise 1.1.3 Importing User to the Identity Authentication Service
 
 1. Open the __Identity Provider__ app. The admin console of your Identity Authentication service is displayed.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/5b72b1c486154c6661a04d92ee6173ee4c78827b/exercises/ex1/images/IDP_Admin_console.png)
+
 2. Open the __Import Users__ app.
   * In the __Applications__ pane, select your SAP S/4HANA Cloud system.
   * Choose __Browse__ and select the data.csv file that includes your business users.
