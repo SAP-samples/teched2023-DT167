@@ -95,7 +95,10 @@ Weekly Working Hours  | 40
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/d3d4866ca4b12be6b777ba03d4ec14fecd80fdd8/exercises/ex1/images/Import_users_browse.png)
   
-  * To import new users to the Identity Authentication service or to update exisiting users, choose Import.
+  * To import new users to the Identity Authentication service or to update exisiting users, choose __Import__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/778b06651747dd761344648b2c05a1c4aba71eec/exercises/ex1/images/Import_users_import.png)
+  
   * A confirmation dialog box is displayed notifying you about newly imported or updated users in the Identity Authentication service.
   * In the confirmation dialog box, choose __OK__.
   * To send activation e-mails to all users that are not yet active for the selected application, choose __Send__.
