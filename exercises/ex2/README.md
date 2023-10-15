@@ -18,7 +18,13 @@ A SAP Fiori __Space__ is the unit that holds one or more SAP Fiori __Pages__. It
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/93fb7756cfedfc8c3415499059b0d7bbf5a75248/exercises/ex2/images/Maintain_business_roles_new.png)
 
-3. Add general role details, such as business role name, ID and description.
+3. Add general role details.
+
+Field  | Value
+------------- | -------------
+Business Role ID | Z_ROLE_TECHED_XX_
+Business Role Description  | Custom business role TechEd XX
+
 4. On the Assigned Business Catalogs tab, select Add to add the required business catalogs. Select the catalogs according to the business activities that the users with this role need to perform. Select Apply.
 5. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. If you want to change these restrictions, select Maintain Restrictions.
 6. Maintain instance-based restrictions for all required business objects (following the requirements of your local authorization concept).
