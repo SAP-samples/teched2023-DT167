@@ -41,11 +41,11 @@ In this exercise, we will test your knowledge by going through some example use 
   <p>Due to ongoing development in SAP S/4HANA Cloud, including the development of new features and new apps, we need to revise existing business catalogs periodically. This means that some business catalogs will be deprecated and replaced by new ones. You will need to assign roles and users to these new catalogs. Rather than disappearing, such business catalogs are marked as deprecated, which allows you to identify them at a glance. You can also check how many deprecated business catalogs you still have in use with the Business Catalogs app. This app lets you change assignments from the old, deprecated business catalogs to the new, active catalogs quickly and easily. Once the deprecation of a business catalog is announced with the Business Catalogs app, the catalog stays in the system for at least 6 months before being deleted. During these at least 6 months, you can use the old or the new business catalogs. Within this timeframe, you can replace them when it suits you best. In the Business Catalogs app, you can see the release in which the deprecation of a business catalog was announced. In SAP S/4HANA Cloud, some business catalogs are redesigned in each release. Please check the assignments for your roles and users in the Business Catalogs app and make the necessary changes to the assignments as soon as possible..</p>
 </details>
 
-## Exercise 3.3 Business Catalogs
+## Exercise 3.3 Restriction Types
 
 <details>
-  <summary>Are there any best practices with regards to business role design in SAP S/4HANA Cloud?</summary>
-  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+  <summary>Are there any ways to see which restriction type is contained in which business catalogs?</summary>
+  <p>Yes, use <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/9203905781b441ed9359cb29803f000a.html?locale=en-US"> the Display Restrction Type app</p>
 </details>
 
 ## Summary
