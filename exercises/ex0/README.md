@@ -15,13 +15,14 @@ First, we will log in the SAP S/4HANA Cloud system.
 Second, we will navigate to the Identity Authentication service via the SAP S/4HANA Cloud system.
 
 1. a
-2. Click on the __Identity Provider - Admin Console__ app. The admin console of the Identity Authentication service is displayed.
+2. Open the __Identity Provider - Admin Console__ app. The admin console of the Identity Authentication service opens up in a separate browser tab.
+3. Open the 
 
 ## Access SAP Cloud Identity Services - Identity Provisioning
 
 Finally, we will navigate to the Identity Provisioning service. We will verify that necessary source and target systems are set up for user provisioning.
 
-1. Click on the __Source Systems__ tile under the __Identity Provisioning__ section.
+1. Open the __Source Systems__. You will find it in the __Identity Provisioning__ section.
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/2ed507b05be0ec535ecf4dd7fc0bb2f17f9a5552/exercises/ex0/images/IPS_source_system.png)
 
@@ -31,7 +32,7 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0a1fa1e8da9754b569415702949a19a82df0af65/exercises/ex0/images/Verify_ips_source_systems.png)
 
-3. Click on the __Target Systems__ tile under the __Identity Provisioning__ section.
+3. Open the __Target Systems__. You will find it in the __Identity Provisioning__ section.
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/6930836a81ac06e4d1c3bf5d9edf405e4002b910/exercises/ex0/images/IPS_target_system.png)
 
