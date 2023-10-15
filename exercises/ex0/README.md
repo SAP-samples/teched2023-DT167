@@ -8,7 +8,9 @@ First, we will log in the SAP S/4HANA Cloud system.
 
 1. Open the SAP S/4HANA Cloud [system](https://myXXXXXX.s4hana.cloud.sap/ui#Shell-home)
 2. Enter your credentials to access the SAP S/4HANA Cloud system
-3. 
+3. Open the __Maintain Business User__ app.
+4. Select your business user.
+5. Verify that the business role __Administrator__ (SAP_BR_ADMINISTRATOR) is assigned to your business user.
 
 ## Access SAP Cloud Identity Services - Identity Authentication
 
