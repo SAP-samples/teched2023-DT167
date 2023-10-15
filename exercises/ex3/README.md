@@ -71,7 +71,7 @@ In this exercise, we will test your knowledge by going through some example use 
   <p>Yes, please check the Display Authorization Trace app. For more details check the <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/79b3c9b7701248fe83b81d4b15134e8d.html?locale=en-US">documentation</p>
 </details>
 
-## Exercise 3.4 Reporting
+## Exercise 3.5 Reporting
 
 <details>
   <summary>Where can I find the list of users which have not been active in the last 3 months?</summary>
