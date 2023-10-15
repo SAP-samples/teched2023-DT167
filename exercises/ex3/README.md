@@ -45,7 +45,7 @@ In this exercise, we will test your knowledge by going through some example use 
 
 <details>
   <summary>Are there any ways to see which restriction type is contained in which business catalogs?</summary>
-  <p>Yes, use <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/9203905781b441ed9359cb29803f000a.html?locale=en-US"> the Display Restrction Type app</p>
+  <p>Yes, use the <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/9203905781b441ed9359cb29803f000a.html?locale=en-US"> Display Restrction Type</a> app</p>
 </details>
 
 ## Summary
