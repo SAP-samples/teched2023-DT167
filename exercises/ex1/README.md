@@ -194,6 +194,7 @@ Account Activation  | Set status active
    * Open the newly created business user.
    * Verify that the User Name and Global User ID are populated, with the same values from the Identity Authentication Service.
 
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/4365eb4bfc1440e61cbca3fde74132580e5d6b4b/exercises/ex1/images/IAS_UUID_Login_Name.png)
  <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/b0a69ccfcabc1cd25dc4ef7eac4cd6733b1ee813/exercises/ex1/images/Maintain_Business_User_UUID_User_Name.png)
 
 ## Summary
