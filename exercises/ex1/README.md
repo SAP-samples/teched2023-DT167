@@ -30,7 +30,7 @@ Worker ID  | S4_JOHN_XX
 4. After creating the basic worker, choose __Edit__.
 5. Go to the __Work Agreements__ tab and choose __Create__.
 
-<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/aec3bfa499bdfcf2f6652b0157c76e73d9205362/exercises/ex1/images/Create_WA.png)
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/c68d23ea002fe9be4df506acf204938a3d7a104a/exercises/ex1/images/Create_WA.png)
 
 6. Enter a __Start Date__ and choose __Create__.
 
