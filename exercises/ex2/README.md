@@ -63,7 +63,18 @@ BP Role  | BUP003, BUP010
 Manage Workforce Access  | 01
 
 * Business Partner Processing (B_BUP_DCPD)
+
+Restriction Field  | Value
+------------- | -------------
+Data Controller | * (Unrestricted Access)
+Purpose  | * (Unrestricted Access)
+
 * Business Role User Assignment (S_BRL_ASG)
+
+Restriction Field  | Value
+------------- | -------------
+Role Group | * (Unrestricted Access)
+User Group  | * (Unrestricted Access)
 
 9. Save the business role to activate it.
 
