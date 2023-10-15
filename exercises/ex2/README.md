@@ -38,6 +38,9 @@ Identity and Access Management - User Management  | SAP_CORE_BC_IAM_UM
 Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
 6. Select __Apply__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/80a4cb0a97882d3da88c479b594d8b292d55fab4/exercises/ex2/images/Add_business_catalogs_apply.png)
+
 7. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. We change these restrictions by selecting __Maintain Restrictions__.
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/f4c37ca3316c5a579bdfc90ba0032f0b2fef694e/exercises/ex2/images/Maintain_restrictions.png)
