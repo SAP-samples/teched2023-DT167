@@ -6,21 +6,16 @@ Depending on the setup of your IT landscape, choose between different identity m
 
 ## Exercise 1.1 SAP S/4HANA Cloud as the Leading System for Users
 
-After completing these steps you will have created...
+In this identity management scenario, workers and work agreements are onboarded to SAP S/4HANA Cloud. The corresponding business users are initially created in SAP S/4HANA Cloud too.
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+1. Open the __Manage Workforce__ app.
+2. Choose __Create__ and enter the 
 
 
 
 ## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
-After completing these steps you will have...
+In this identity management scenario, workers and work agreements are onboarded to SAP S/4HANA Cloud. The corresponding users are initially created in the Identity Directory.
 
 1.	Enter this code.
 ```abap
