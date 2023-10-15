@@ -143,6 +143,14 @@ Title  | Security
 5. Click __Save__ to save the page layout.
 6. Repeat steps 1-5 for the layout of the other pages.
 
+In order to verify your custom space and page layout, you need to assign the business role to your business user.
+
+1. Open the __Maintain Business User__ app.
+2. Search for your business user and add the business role __Z_ROLE_TECHED_XX__
+3. Go to the home page and refresh. You will see that the newly created space and page will be visible.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/96d1681f201fe15f6a4daff1cce624453dce8758/exercises/ex2/images/custom_space.png)
+
 ## Summary
 
 You've now ...
