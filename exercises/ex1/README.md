@@ -151,6 +151,9 @@ Weekly Working Hours  | 40
 2. Choose the __User Management__ tile.
 3. The system displays the first 20 users in the tenant sorted by their user ID number.
 4. Press __Add__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/e1b66aa576bd081828d8c9df45ef4071e2f6841a/exercises/ex0/images/IAS_add_user.png)
+
 5. Fill in the required fields in the dialog box.
 
 ### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
