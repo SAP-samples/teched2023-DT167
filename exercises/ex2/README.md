@@ -38,7 +38,10 @@ Identity and Access Management - User Management  | SAP_CORE_BC_IAM_UM
 Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
 6. Select __Apply__.
-7. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. If you want to change these restrictions, select Maintain Restrictions.
+7. By default, the value help and read access for each business catalog is set to unrestricted and there is no write access. We change these restrictions by selecting __Maintain Restrictions__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/f4c37ca3316c5a579bdfc90ba0032f0b2fef694e/exercises/ex2/images/Maintain_restrictions.png)
+
 8. Maintain instance-based restrictions for all required business objects (following the requirements of your local authorization concept).
 9. Save the business role to activate it.
 
