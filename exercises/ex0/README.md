@@ -16,7 +16,11 @@ Second, we will navigate to the Identity Authentication service via the SAP S/4H
 
 1. a
 2. Open the __Identity Provider - Admin Console__ app. The admin console of the Identity Authentication service opens up in a separate browser tab.
-3. Open the 
+3. Open the __Administrators__ app.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/6e5509fe1f84a670cc2eedf9204b32252403a510/exercises/ex0/images/Verify_IAS_admin.png)
+
+4. In the list of administrators, search for your user. Verify that the 
 
 ## Access SAP Cloud Identity Services - Identity Provisioning
 
