@@ -10,7 +10,7 @@ In this exercise, we will test your knowledge by going through some example use 
 </details>
 
 <details>
-  <summary>Are there any best practices with regards to business role and release upgrades SAP S/4HANA Cloud?</summary>
+  <summary>Are there any best practices with regards to management of business roles during and after release upgrades of SAP S/4HANA Cloud?</summary>
   <p>Yes, SAP provides guidance with the SAP S/4HANA Cloud Identity and Access Management Release Activities guide in the [SAP Activate Roadmap](https://support.sap.com/content/dam/SAAP/SAP_Activate/S4H_1072%20SAP%20S4HC%20IAM%20Release%20Activities%20_%203SL.pdf).</p>
 </details>
 
