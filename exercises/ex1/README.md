@@ -48,7 +48,7 @@ Company Code  | 1010
 
 Field | Value
 ------------- | -------------
-Cost Center  | 1010
+Cost Center  | Financials (DE) (10101101)
 Weekly Working Days  | 5
 Weekly Working Hours  | 40
 
