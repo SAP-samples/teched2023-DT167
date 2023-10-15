@@ -168,6 +168,11 @@ Login Name  | CIS_JOHN_XX
 User Type  | Employee
 Account Activation  | Set status active
 
+6. Search for the newly created user and click on __Edit__.
+7. Click the checkbox __Verify Email__ and enter the __Employee Number__ CIS_JOHN_XX.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0486ee3b97cff772afc94049708c25f2c7c358cf/exercises/ex1/images/Verify_email_employee_number.png)
+
 ### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
 
 1. Open the Identity Authentication service administration console. Go to __Source Systems__.
