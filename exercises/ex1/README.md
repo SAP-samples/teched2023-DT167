@@ -75,6 +75,8 @@ Weekly Working Hours  | 40
 
 3. Choose __Download --> Download for IDP__. The data.csv file is available for download.
 
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/bb70ef252995d409079ebd27110f3826a773fdc0/exercises/ex1/images/Download_for_idp.png)
+
 ### Exercise 1.1.3 Importing User to the Identity Authentication Service
 
 1. Open the __Identity Provider__ app. The admin console of your Identity Authentication service is displayed.
