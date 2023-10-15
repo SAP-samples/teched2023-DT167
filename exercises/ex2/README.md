@@ -133,7 +133,15 @@ Title  | Security
 
 5. Open the __Manage Launchpad Spaces__ app.
 6. Select the space __Z_TECHED_SPACE_XX__ which you created in step 4. Select __Edit__ to assign the pages (step 7-9) to your custom space.
-12. 
+
+### Exercise 2.2.3 Designing the SAP Fiori Page Layout
+
+1. Open the __Manage Launchpad Pages__ app.
+2. Select the page __Z_TECHED_PAGE_WFD__ and click on the __Edit__ icon. You are redirected to the Page composer.
+3. Enter __Workforce Master Data Management__ in the section title.
+4. Add the __Manage Workforce__ app to the section by clicking on __Add__.
+5. Click __Save__ to save the page layout.
+6. Repeat steps 1-5 for the layout of the other pages.
 
 ## Summary
 
