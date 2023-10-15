@@ -1,8 +1,8 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Creating Business Users in SAP S/4HANA Cloud
 
 In this exercise, we will create...
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 1.1 SAP S/4HANA Cloud as the Leading System for Users
 
 After completing these steps you will have created...
 
@@ -16,7 +16,7 @@ response->set_text( |Hello World! | ).
 
 
 
-## Exercise 1.2 Sub Exercise 2 Description
+## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
 After completing these steps you will have...
 
