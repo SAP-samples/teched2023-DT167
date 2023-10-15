@@ -1,8 +1,8 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Creating Business Roles and SAP Fiori Spaces and Pages
 
-In this exercise, we will create...
+In this exercise, we will create our first business roles and custom SAP Fiori Spaces and Pages. 
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 Creating Business Roles
 
 After completing these steps you will have created...
 
@@ -16,7 +16,7 @@ response->set_text( |Hello ABAP World! | ).
 
 
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 Creating SAP Fiori Spaces and Pages
 
 After completing these steps you will have...
 
