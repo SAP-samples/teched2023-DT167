@@ -170,12 +170,11 @@ Account Activation  | Set status active
 
 ### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
 
-1. Open the Identity Authentication service administration console.
-2. Go to __Source Systems__.
-3. Select the source system.
-4. Go to the __Jobs__ tab.
-5. For Job Type __Read Job__ select the __Run Now__ action.
-6. Verify in the SAP S/4HANA Cloud system that the business user is created. 
+1. Open the Identity Authentication service administration console. Go to __Source Systems__.
+2. Select the source system.
+3. Go to the __Jobs__ tab.
+4. For Job Type __Read Job__ select the __Run Now__ action.
+5. Verify in the SAP S/4HANA Cloud system that the business user is created. 
 
 ## Summary
 
