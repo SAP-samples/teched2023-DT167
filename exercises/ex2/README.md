@@ -126,7 +126,9 @@ ID | Z_TECHED_PAGE_SEC
 Description  | Custom Page Security
 Title  | Security
 
-10. You are redirected to the Page composer. Select __Edit__ to design the page content.
+10. Open the __Manage Launchpad Spaces__ app.
+11. Select the space __Z_TECHED_SPACE_XX__ which you created in step 4. Select __Edit__ to assign the pages (step 7-9) to your custom space.
+12. 
 
 ## Summary
 
