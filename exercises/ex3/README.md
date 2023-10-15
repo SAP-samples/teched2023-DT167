@@ -5,6 +5,11 @@ In this exercise, we will test your knowledge by going through some example use 
 ## Exercise 3.1 Business Users
 
 <details>
+  <summary>Is there any best practice with regards to Identity Management in SAP S/4HANA Cloud and integrated products?</summary>
+  <p>Yes, check the guide in the <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/b249d650b15e4b3d9fc2077ee921abd0/b3a622c123b3413285eae13176d870c6.html?locale=en-US">documentation.</p>
+</details>
+
+<details>
   <summary>Can we configure periodic jobs to lock inactive business users?</summary>
   <p>Yes, please check <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/a817aef3b51d4b0fbc4907e7adcfacd7.html?locale=en-US">How to Lock Unused Business Users
 </a></p>
