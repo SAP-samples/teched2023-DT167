@@ -180,7 +180,11 @@ Account Activation  | Set status active
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/becf9e88763253dda7e6449305c04c9128883f9d/exercises/ex1/images/IPS_Read_job.png)
 
-5. Verify in the SAP S/4HANA Cloud system that the business user is created. 
+5. Go to __Provisioning Logs__ and verify that the IPS job was executed successfully and 1 business user was created in SAP S/4HANA Cloud
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/7916963877a1f04aa7c05f5027030b2138e7364c/exercises/ex1/images/IPS_1_user_created.png)
+
+6. Verify in the SAP S/4HANA Cloud system that the business user is created. 
 
 ## Summary
 
