@@ -147,8 +147,11 @@ Weekly Working Hours  | 40
 
 ### Exercise 1.1.2 Creating User in Identity Authentication Service
 
-1. Open the Identity Authentication service administration console.
+1. Open the __Identity Provider__ app. The admin console of your Identity Authentication service is displayed.
 2. Choose the __User Management__ tile.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/a48b0c07fb9c86da945abbebec6c16b3d28d9314/exercises/ex0/images/IAS_user_management.png)
+
 3. The system displays the first 20 users in the tenant sorted by their user ID number.
 4. Press __Add__.
 
