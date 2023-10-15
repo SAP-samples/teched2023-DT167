@@ -25,7 +25,19 @@ In this identity management scenario, workers and work agreements are onboarded 
 
 ### Exercise 1.1.2 Exporting Business User from SAP S/4HANA Cloud
 
+1. Open the Maintain Business Users app.
+2. Choose Download  Download for IDP. The data.csv file is available for download.
+
 ### Exercise 1.1.3 Importing User to the Identity Authentication Service
+
+1. Open the Identity Provider app. The admin console of your Identity Authentication service is displayed.
+2. Open the Import Users app.
+  * In the Applications pane, select your SAP S/4HANA Cloud system.
+  * Choose Browse and select the data.csv file that includes your business users.
+  * To import new users to the Identity Authentication service or to update exisiting users, choose Import.
+  * A confirmation dialog box is displayed notifying you about newly imported or updated users in the Identity Authentication service.
+  * In the confirmation dialog box, choose OK.
+  * To send activation e-mails to all users that are not yet active for the selected application, choose Send.
 
 ## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
