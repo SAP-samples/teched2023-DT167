@@ -11,9 +11,12 @@ In this identity management scenario, workers and work agreements are onboarded 
 1. Open the __Manage Workforce__ app.
 2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__).
 3. Choose __Create__.
-4. 
-
-
+4. After creating the basic worker, choose __Edit__.
+5. Go to the __Work Agreements__ tab and choose __Create__.
+6. Enter a __Start Date__ and choose __Create__.
+7. Choose a __Company Code__ from the value help.
+8. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
+9. Choose __Apply__ and __Save__.
 
 ## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
