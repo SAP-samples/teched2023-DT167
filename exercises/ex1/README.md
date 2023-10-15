@@ -189,7 +189,12 @@ Account Activation  | Set status active
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/7916963877a1f04aa7c05f5027030b2138e7364c/exercises/ex1/images/IPS_1_user_created.png)
 
-6. Verify in the SAP S/4HANA Cloud system that the business user is created. 
+6. Verify in the SAP S/4HANA Cloud system that the business user is created.
+   * Open the __Maintain Business User__ app. Search for the __User Name__ CIS_JOHN_XX.
+   * Open the newly created business user.
+   * Verify that the User Name and Global User ID are populated, with the same values from the Identity Authentication Service.
+
+ <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/b0a69ccfcabc1cd25dc4ef7eac4cd6733b1ee813/exercises/ex1/images/Maintain_Business_User_UUID_User_Name.png)
 
 ## Summary
 
