@@ -8,6 +8,8 @@ Depending on the setup of your IT landscape, choose between different identity m
 
 In this identity management scenario, workers and work agreements are onboarded to SAP S/4HANA Cloud. The corresponding business users are initially created in SAP S/4HANA Cloud too.
 
+### Exercise 1.1.1 Creating Worker and associated Business Users
+
 1. Open the __Manage Workforce__ app.
 2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__).
 3. Choose __Create__.
@@ -20,6 +22,10 @@ In this identity management scenario, workers and work agreements are onboarded 
 10. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
 11. In the __User Data__ section, enter a __User Name__.
 12. Choose __Save__.
+
+### Exercise 1.1.2 Exporting Business User from SAP S/4HANA Cloud
+
+### Exercise 1.1.3 Importing User to the Identity Authentication Service
 
 ## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
