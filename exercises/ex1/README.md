@@ -1,8 +1,8 @@
 # Exercise 1 - Creating Business Users in SAP S/4HANA Cloud
 
-In this exercise, we will create our first business users in SAP S/4HANA Cloud. Therefore, we will explore two different identity management scenarios for creating business users. Depending on the setup of your IT landscape, choose between different identity management scenarios for your SAP S/4HANA Cloud system. The identity management scenarios differ with regard to the leading system to which workers and their work agreements are onboarded as well as where the corresponding users are initially created.
+In this exercise, we will create our first business users in SAP S/4HANA Cloud. Therefore, we will explore two different identity management scenarios for creating business users. 
 
-For more details you can check out the SAP Help documentation [Identity Management for SAP S/4HANA Cloud and Integrated Products](https://help.sap.com/docs/SAP_S4HANA_CLOUD/b249d650b15e4b3d9fc2077ee921abd0/b3a622c123b3413285eae13176d870c6.html?locale=en-US)
+Depending on the setup of your IT landscape, choose between different identity management scenarios for your SAP S/4HANA Cloud system. The identity management scenarios differ with regard to the leading system to which workers and their work agreements are onboarded as well as where the corresponding users are initially created. For more details you can check out the SAP Help documentation [Identity Management for SAP S/4HANA Cloud and Integrated Products](https://help.sap.com/docs/SAP_S4HANA_CLOUD/b249d650b15e4b3d9fc2077ee921abd0/b3a622c123b3413285eae13176d870c6.html?locale=en-US)
 
 ## Exercise 1.1 SAP S/4HANA Cloud as the Leading System for Users
 
