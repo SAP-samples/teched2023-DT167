@@ -60,7 +60,10 @@ Weekly Working Hours  | 40
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0c0eec74f04761751ed356c40e98f207567219c2/exercises/ex1/images/Manage_workforce_maintain_business_user.png)
 
-11. In the __User Data__ section, enter a __User Name__.
+11. In the __User Data__ section, enter a __User Name__ (e.g. S4_JOHN_XX).
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0427a4fc35a9c400abc82e970895d58cd8d642a6/exercises/ex1/images/Maintain_business_user_user_name.png)
+
 12. Choose __Save__.
 
 ### Exercise 1.1.2 Exporting Business User from SAP S/4HANA Cloud
