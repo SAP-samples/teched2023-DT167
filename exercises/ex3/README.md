@@ -11,7 +11,7 @@ In this exercise, we will test your knowledge by going through some example use 
 
 <details>
   <summary>Are there any best practices with regards to business role design in SAP S/4HANA Cloud?</summary>
-  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+  <p>Yes, check the <a href="https://go.support.sap.com/roadmapviewer/#/group//roadmap/82b2db84548d41209cda972f0fac428b:t4/node/FA163ED752201EDABFE83D4F5A9A3D51:t4/FA163ED752201EDABFE83D2925E11D51:t4"> SAP Activate Roadmap.</p>
 </details>
 
 <details>
