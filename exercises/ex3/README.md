@@ -6,7 +6,7 @@ In this exercise, we will test your knowledge by going through some example use 
 
 <details>
   <summary>We need to make sure that key users can assign specific business roles to specific users. Can this scenario be implemented?</summary>
-  <p>Yes, please check <a href"https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/24f5b79256f64990af35b22ea87ea020.html?locale=en-US">Maintain Business User Groups</a> and <a href"https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/72b48dea7743487c952fa13fbdb6d23c.html?locale=en-US">Maintain Business Role Groups</p>
+  <p>Yes, please check <a href"https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/24f5b79256f64990af35b22ea87ea020.html?locale=en-US">Maintain Business User Groups</a> and <a href"https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/72b48dea7743487c952fa13fbdb6d23c.html?locale=en-US">Maintain Business Role Groups</a></p>
 </details>
 
 <details>
