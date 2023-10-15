@@ -5,6 +5,11 @@ In this exercise, we will test your knowledge by going through some example use 
 ## Exercise 3.1 Business Roles
 
 <details>
+  <summary>We need to make sure that key users can assign specific business roles to specific users. Can this scenario be implemented?</summary>
+  <p>Yes, please check <a href"https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/24f5b79256f64990af35b22ea87ea020.html?locale=en-US">Maintain Business User Groups</a> and <a href"https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/72b48dea7743487c952fa13fbdb6d23c.html?locale=en-US">Maintain Business Role Groups</p>
+</details>
+
+<details>
   <summary>I need to mass change business roles, e.g. maintain a new restriction, assign a new launchpad space, etc. What is the best way to solve this issue?</summary>
   <p>Mass maintenance of business roles is possible with the mass change wizard. For more details check <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/07a3a58ecdbb481cab76fc4e867811cb.html?locale=en-US">How to Make Mass Changes to Business Roles</p>
 </details>
