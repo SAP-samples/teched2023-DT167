@@ -27,6 +27,8 @@ Business Role Description  | Custom business role TechEd XX
 
 4. On the __Assigned Business Catalogs__ tab, select __Add__ to add below business catalogs.
 
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/355ffe6f4126c879d083124bd3ca6f79d1e0ba42/exercises/ex2/images/Add_business_catalogs.png)
+
 Business Catalog  | Business Catalog ID
 ------------- | -------------
 Master Data - Manage Workforce | SAP_BUM_BC_MNG_WORKFORCE_PC
