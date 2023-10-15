@@ -80,7 +80,8 @@ User Group  | * (Unrestricted Access)
 
 ## Exercise 2.2 Creating SAP Fiori Spaces and Pages
 
-
+1. Open the __Maintain Business Role__ app. Select the business role __Z_ROLE_TECHED_XX__ which you created in exercise 2.1.
+2. 
 
 ## Summary
 
