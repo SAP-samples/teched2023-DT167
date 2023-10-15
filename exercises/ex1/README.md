@@ -84,6 +84,9 @@ Weekly Working Hours  | 40
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/5b72b1c486154c6661a04d92ee6173ee4c78827b/exercises/ex1/images/IDP_Admin_console.png)
 
 2. Open the __Import Users__ app.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/bc3916d7c1008e861469c47beccaf75a3aebc8f2/exercises/ex1/images/Import_users.png)
+
   * In the __Applications__ pane, select your SAP S/4HANA Cloud system.
   * Choose __Browse__ and select the data.csv file that includes your business users.
   * To import new users to the Identity Authentication service or to update exisiting users, choose Import.
