@@ -50,6 +50,4 @@ In this exercise, we will test your knowledge by going through some example use 
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+__Congratulations__! You've completed all exercises.
