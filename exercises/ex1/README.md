@@ -11,6 +11,9 @@ In this identity management scenario, workers and work agreements are onboarded 
 ### Exercise 1.1.1 Creating Worker and associated Business Users
 
 1. Open the __Manage Workforce__ app.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/9c270fb2d9edafbb368ec6f4165a8b6c5001b976/exercises/ex1/images/Manage_Workforce.png)
+
 2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__). Replace XX with your participant number.
 
 Field | Value
