@@ -48,6 +48,11 @@ In this exercise, we will test your knowledge by going through some example use 
   <p>Mass maintenance of business roles is possible with the mass change wizard. For more details check <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/07a3a58ecdbb481cab76fc4e867811cb.html?locale=en-US">How to Make Mass Changes to Business Roles</p>
 </details>
 
+<details>
+  <summary>My end users are complaining that they are getting authorization failed issues. Is there a tool to trace authorizations?</summary>
+  <p>Yes, please check the Display Authorization Trace app. For more details check the <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/79b3c9b7701248fe83b81d4b15134e8d.html?locale=en-US">documentation</p>
+</details>
+
 ## Exercise 3.4 Reporting
 
 <details>
