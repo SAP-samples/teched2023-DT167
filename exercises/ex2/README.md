@@ -94,6 +94,21 @@ Space Description  | Custom Space TechEd XX
 Space Title  | Space TechEd XX
 Create Page from Business Catalogs and Groups  | No
 
+5. Select __Save__.
+6. Open the __Manage Launchpad Pages__ app.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/d00c7f190df601e0244efd6e86280cd02e3cc6c0/exercises/ex2/images/Manage_launchpad_pages.png)
+
+7. Select the __Create__ button and enter the following details:
+
+Field  | Value
+------------- | -------------
+ID | Z_TECHED_PAGE_WFD
+Description  | Custom Page Workforce
+Title  | Workforce Master
+
+8. Confirm your input by clicking on __Create__.
+
 ## Summary
 
 You've now ...
