@@ -53,6 +53,9 @@ Weekly Working Days  | 5
 Weekly Working Hours  | 40
 
 9. Choose __Apply__ and __Save__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/7b4c0d039c42fa26d920d64f3aa9e2e85550f0a1/exercises/ex1/images/WA_Details.png)
+
 10. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
 11. In the __User Data__ section, enter a __User Name__.
 12. Choose __Save__.
