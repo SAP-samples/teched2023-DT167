@@ -9,7 +9,9 @@ Depending on the setup of your IT landscape, choose between different identity m
 In this identity management scenario, workers and work agreements are onboarded to SAP S/4HANA Cloud. The corresponding business users are initially created in SAP S/4HANA Cloud too.
 
 1. Open the __Manage Workforce__ app.
-2. Choose __Create__ and enter the 
+2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__).
+3. Choose __Create__.
+4. 
 
 
 
