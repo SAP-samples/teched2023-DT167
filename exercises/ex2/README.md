@@ -108,6 +108,25 @@ Description  | Custom Page Workforce
 Title  | Workforce Master
 
 8. Confirm your input by clicking on __Create__.
+9. Repeat step 7 and 8 to create two more pages with the following details:
+
+* User Management
+
+Field  | Value
+------------- | -------------
+ID | Z_TECHED_PAGE_UM
+Description  | Custom Page User Management
+Title  | User Management
+
+* Security
+
+Field  | Value
+------------- | -------------
+ID | Z_TECHED_PAGE_SEC
+Description  | Custom Page Security
+Title  | Security
+
+10. You are redirected to the Page composer. Select __Edit__ to design the page content.
 
 ## Summary
 
