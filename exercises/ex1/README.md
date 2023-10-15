@@ -17,6 +17,9 @@ In this identity management scenario, workers and work agreements are onboarded 
 7. Choose a __Company Code__ from the value help.
 8. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
 9. Choose __Apply__ and __Save__.
+10. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
+11. In the __User Data__ section, enter a __User Name__.
+12. Choose __Save__.
 
 ## Exercise 1.2 SAP Cloud Identity Services as the Leading System for Users
 
