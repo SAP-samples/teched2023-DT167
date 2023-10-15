@@ -9,6 +9,7 @@ First, we will log in the SAP S/4HANA Cloud system.
 1. Open the SAP S/4HANA Cloud [system](https://myXXXXXX.s4hana.cloud.sap/ui#Shell-home)
 2. Enter your credentials to access the SAP S/4HANA Cloud system
 3. Open the __Maintain Business User__ app.
+<br>[](https://github.com/SAP-samples/teched2023-DT167/blob/0758ae69f7d54ebf181bcdeaf6c8a6c7ee731e67/exercises/ex0/images/Maintain_Business_User_app.png)
 4. Select your business user.
 5. Verify that the business role __Administrator__ (_SAP_BR_ADMINISTRATOR_) is assigned to your business user. The business roles assigned to your business user are displayed in the __Assigned Business Roles__ section.
 
