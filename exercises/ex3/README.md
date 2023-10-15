@@ -23,7 +23,7 @@ In this exercise, we will test your knowledge by going through some example use 
 
 <details>
   <summary>Is it possible to see which scope item my business catalogs depend on?</summary>
-  <p>Yes, check the Business Catalogs app on tab Scope Items. Alternatively, use the IAM Information System app.</p>
+  <p>Yes, check the Business Catalogs app on tab Scope Items. Alternatively, use the IAM Information System app (Main Entity: Business Catalog, tab: Business Catalog - Scope Item).</p>
 </details>
 
 <details>
