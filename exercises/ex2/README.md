@@ -82,6 +82,17 @@ User Group  | * (Unrestricted Access)
 
 1. Open the __Maintain Business Role__ app. Select the business role __Z_ROLE_TECHED_XX__ which you created in exercise 2.1.
 2. Select the __Assigned Launchpad Spaces__ tab and click on __Edit__.
+3. Select __Add__. In the Assign Space to Business Role option, select __Create New Space__.
+4. Enter the following details:
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/d9a1574a1fca4aaf3bdfe3cab0fda4891d3e2bc1/exercises/ex2/images/Add_launchpad_space.png)
+
+Field  | Value
+------------- | -------------
+Space ID | Z_TECHED_SPACE_XX
+Space Description  | Custom Space TechEd XX
+Space Title  | Space TechEd XX
+Create Page from Business Catalogs and Groups  | No
 
 ## Summary
 
