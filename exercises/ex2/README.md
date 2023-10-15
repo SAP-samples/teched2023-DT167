@@ -153,6 +153,6 @@ In order to verify your custom space and page layout, you need to assign the bus
 
 ## Summary
 
-You've now ...
+You've now created your first business role and assigned Fiori Spaces and Pages.
 
 Continue to - [Exercise 3 - Quiz](../ex3/README.md)
