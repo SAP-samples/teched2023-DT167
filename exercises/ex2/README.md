@@ -155,4 +155,4 @@ In order to verify your custom space and page layout, you need to assign the bus
 
 You've now ...
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Quiz](../ex3/README.md)
