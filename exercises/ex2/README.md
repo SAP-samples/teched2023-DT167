@@ -45,7 +45,11 @@ Security - Identity Provider  | SAP_CORE_BC_SEC_IDP_PC
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/f4c37ca3316c5a579bdfc90ba0032f0b2fef694e/exercises/ex2/images/Maintain_restrictions.png)
 
-8. Maintain instance-based restrictions as follows:
+8. Change the access catagory for __Write, Read, Value Help__ and __Read, Value Help__ to __Restricted__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/c4ea04ddaf20b47204e4a639f32da2614d38bb84/exercises/ex2/images/Access_categories.png)
+
+9. Maintain instance-based restrictions as follows:
 
 * General
 
