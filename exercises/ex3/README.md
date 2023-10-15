@@ -22,8 +22,8 @@ In this exercise, we will test your knowledge by going through some example use 
 ## Exercise 3.2 Business Catalogs
 
 <details>
-  <summary>Are there any best practices with regards to business role design in SAP S/4HANA Cloud?</summary>
-  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+  <summary>Is it possible to see which scope item my business catalogs depend on?</summary>
+  <p>Yes, check the Business Catalogs app on tab __Scope Items__.</p>
 </details>
 
 ## Exercise 3.3 Business Catalogs
