@@ -171,6 +171,9 @@ Account Activation  | Set status active
 ### Exercise 1.1.3 Running Provisioning Job in the Identity Provisioning Service
 
 1. Open the Identity Authentication service administration console. Go to __Source Systems__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/28b4e78528b58655ec5629eaee8088fbe8668024/exercises/ex0/images/IPS_source_system.png)
+
 2. Select the source system.
 3. Go to the __Jobs__ tab.
 4. For Job Type __Read Job__ select the __Run Now__ action.
