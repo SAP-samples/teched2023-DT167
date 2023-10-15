@@ -11,25 +11,42 @@ In this identity management scenario, workers and work agreements are onboarded 
 ### Exercise 1.1.1 Creating Worker and associated Business Users
 
 1. Open the __Manage Workforce__ app.
-2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__).
+2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__). Replace XX with your participant number.
 
 Field | Value
 ------------- | -------------
 First Name  | John
-Last Name  | TechEd
-Email  | john.teched@example.com
-Worker ID  | TECHED_S4_JOHN
+Last Name  | S4 XX
+Email  | john.s4_xx@example.com
+Worker ID  | S4_JOHN_XX
 
-4. Choose __Create__.
-5. After creating the basic worker, choose __Edit__.
+3. Choose __Create__.
+4. After creating the basic worker, choose __Edit__.
 6. Go to the __Work Agreements__ tab and choose __Create__.
 7. Enter a __Start Date__ and choose __Create__.
-8. Choose a __Company Code__ from the value help.
-9. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
-10. Choose __Apply__ and __Save__.
-11. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
-12. In the __User Data__ section, enter a __User Name__.
-13. Choose __Save__.
+
+Field | Value
+------------- | -------------
+Start Date | 01.01.2023
+
+9. Choose a __Company Code__ from the value help.
+
+Field | Value
+------------- | -------------
+Company Code  | 1010
+ 
+10. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
+
+Field | Value
+------------- | -------------
+Cost Center  | 1010
+Weekly Working Days  | 5
+Weekly Working Hours  | 40
+
+12. Choose __Apply__ and __Save__.
+13. Choose __Maintain Business User__ button. The Maintain Business Users app is opened. A business user is automatically created with the employee data that you've just entered.
+14. In the __User Data__ section, enter a __User Name__.
+15. Choose __Save__.
 
 ### Exercise 1.1.2 Exporting Business User from SAP S/4HANA Cloud
 
