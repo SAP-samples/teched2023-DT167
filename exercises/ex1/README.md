@@ -198,7 +198,7 @@ Account Activation  | Set status active
 
 ## Summary
 
-You've now ...
+You've now learned two different identity management scenarios for creating business users in your SAP S/4HANA Cloud system.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
