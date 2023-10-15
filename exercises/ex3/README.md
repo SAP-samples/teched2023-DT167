@@ -1,12 +1,6 @@
-# Exercise 2 - Creating Business Roles and SAP Fiori Spaces and Pages
+# Exercise 3 - Quiz
 
-In this exercise, we will create our first business roles and custom SAP Fiori Spaces and Pages. 
-
-Access to business apps is controlled by a role-based authorization management. That means you assign business roles to business users and these business roles provide access to certain business tasks. You can assign business users to business roles in the __Maintain Business Roles__ app. The main purpose of the app though is to create and adapt business roles. You create business roles by combining pre-defined __business catalogs__ that contain the actual authorizations that allow users to access apps for a specific business area. If necessary, you can change the restrictions for the access categories __value help, read, and write__ on field level. Once you have created a business role, you can assign it to multiple business users who perform similar business tasks in the Maintain Business Users.
-
-A SAP Fiori __Space__ is the unit that holds one or more SAP Fiori __Pages__. It is assigned to you based on your work profile (__business role__). You may see several spaces in your SAP Fiori Launchpad. The spaces are displayed in the navigation bar where you can switch between the different available spaces and pages. A page is the part of the space that contains the apps as tiles and links clustered into different sections. It is shown in the main area of the launchpad. When you log on to the launchpad, you'll see the apps and sections that have been preconfigured for you. The page is your central starting point in the launchpad and should show you the apps that are relevant for the context of your daily work. Note that the pages do not show all apps you can access based on your role and the catalogs assigned to the roles, but only a selection your administrator made available. You can access all apps you are eligible to use by searching for them in the search field, in the app finder or in the All My Apps menu.
-
-<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/8157e3b9c4d6d66b66e26d91c39e95001cb8e117/exercises/ex2/images/Business_roles_Spaces_Pages.png)
+In this exercise, we will test your knowledge by going through some example use cases. 
 
 ## Exercise 2.1 Creating Business Roles
 
