@@ -24,6 +24,9 @@ Email  | john.s4_xx@example.com
 Worker ID  | S4_JOHN_XX
 
 3. Choose __Create__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/56ec0b92da7cd26b32acc39a0d0f95956555d944/exercises/ex1/images/John_S4_00.png)
+
 4. After creating the basic worker, choose __Edit__.
 6. Go to the __Work Agreements__ tab and choose __Create__.
 7. Enter a __Start Date__ and choose __Create__.
