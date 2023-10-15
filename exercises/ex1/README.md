@@ -107,20 +107,41 @@ Weekly Working Hours  | 40
 
 In this identity management scenario, workers and work agreements are onboarded to SAP S/4HANA Cloud. The corresponding users are initially created in the Identity Directory.
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+1. Open the __Manage Workforce__ app.
 
-```
+2. Choose __Create__ and fill in at least all mandatory fields (__Last Name, Worker ID, Email__). Replace XX with your participant number.
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+Field | Value
+------------- | -------------
+First Name  | John
+Last Name  | CIS XX
+Email  | john.cis_xx@example.com
+Worker ID  | CIS_JOHN_XX
+
+3. Choose __Create__.
+4. After creating the basic worker, choose __Edit__.
+5. Go to the __Work Agreements__ tab and choose __Create__.
+6. Enter a __Start Date__ and choose __Create__.
+
+Field | Value
+------------- | -------------
+Start Date | 01/01/2023
+
+7. Choose a __Company Code__ from the value help.
+
+Field | Value
+------------- | -------------
+Company Code  | 1010
+ 
+8. Fill in fields such as __Cost Center, Weekly Working Days, Weekly Working Hours,__ and so on as required. The Work Agreement ID is automatically generated.
+
+Field | Value
+------------- | -------------
+Cost Center  | Financials (DE) (10101101)
+Weekly Working Days  | 5
+Weekly Working Hours  | 40
+
+9. Choose __Apply__ and __Save__.
 
 
 ## Summary
