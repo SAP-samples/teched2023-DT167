@@ -10,6 +10,11 @@ In this exercise, we will test your knowledge by going through some example use 
 </details>
 
 <details>
+  <summary>Which user attributes can be used for authentication?</summary>
+  <p>Please check the guide in the <a href="https://help.sap.com/docs/identity-authentication/identity-authentication/use-identity-authentication-as-authenticating-idp?version=Cloud">Use Identity Authentication as Authenticating IdP.</p>
+</details>
+
+<details>
   <summary>Can we configure periodic jobs to lock inactive business users?</summary>
   <p>Yes, please check <a href="https://help.sap.com/docs/SAP_S4HANA_CLOUD/55a7cb346519450cb9e6d21c1ecd6ec1/a817aef3b51d4b0fbc4907e7adcfacd7.html?locale=en-US">How to Lock Unused Business Users
 </a></p>
