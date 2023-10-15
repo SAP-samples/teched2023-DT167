@@ -69,7 +69,11 @@ Weekly Working Hours  | 40
 ### Exercise 1.1.2 Exporting Business User from SAP S/4HANA Cloud
 
 1. Open the __Maintain Business Users__ app.
-2. Choose __Download --> Download for IDP__. The data.csv file is available for download.
+2. Search for your newly created business user by entering the User Name __S4_JOHN_XX__ in the __User Name__ search field. Click __Enter__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/5c10606cf36d46ddde62e5500d83e3e7e05cc37a/exercises/ex1/images/Maintain_business_user_s4_john.png)
+
+3. Choose __Download --> Download for IDP__. The data.csv file is available for download.
 
 ### Exercise 1.1.3 Importing User to the Identity Authentication Service
 
