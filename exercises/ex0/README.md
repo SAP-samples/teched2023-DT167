@@ -6,7 +6,7 @@ In this exercise, you will check if you can generally access the SAP systems for
 
 First, we will log in the SAP S/4HANA Cloud system.
 
-1. Open the SAP S/4HANA Cloud [system](https://myXXXXXX.s4hana.cloud.sap/ui#Shell-home)
+1. Open the SAP S/4HANA Cloud [system](https://my301361.s4hana.ondemand.com/ui#Shell-home)
 2. Enter your credentials to access the SAP S/4HANA Cloud system
 3. Open the __Maintain Business User__ app.
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0758ae69f7d54ebf181bcdeaf6c8a6c7ee731e67/exercises/ex0/images/Maintain_Business_User_app.png)
@@ -37,8 +37,8 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/2ed507b05be0ec535ecf4dd7fc0bb2f17f9a5552/exercises/ex0/images/IPS_source_system.png)
 
 2. The list of pre-configured source systems is displayed. Verify you can see the following source systems
-   * IAS formyXXXXXX - source
-   * S4-myXXXXXX-source
+   * IAS formy301361 - source
+   * S4-my301361-source
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/0a1fa1e8da9754b569415702949a19a82df0af65/exercises/ex0/images/Verify_ips_source_systems.png)
 
@@ -47,8 +47,8 @@ Finally, we will navigate to the Identity Provisioning service. We will verify t
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/6930836a81ac06e4d1c3bf5d9edf405e4002b910/exercises/ex0/images/IPS_target_system.png)
 
 4. The list of pre-configured target systems is displayed. Verify you can see the following target systems
-   * S4HANAmyXXXXXX - target
-   * SAC-myXXXXXX-target
+   * S4HANAmy301361 - target
+   * SAC-my301361-target
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/23da9f3ac061441a11fc60078e6ec0800b020737/exercises/ex0/images/Verify_ips_target_systems.png)
 
