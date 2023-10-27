@@ -18,6 +18,8 @@ __Note:__ The SAP business role template _SAP_BR_ADMINISTRATOR_ is the only busi
 6. Open the business role and navigate to the __Assigned Business Catalogs__ tab. Verify that the following business catalogs are assigned to the business role:
   * __Master Data - Manage Workforce__ (_SAP_BUM_BC_MNG_WORKFORCE_PC_)
   * __Security - Identity Provider__ (_SAP_CORE_BC_SEC_IDP_PC_)
+  * __Identity and Access Management - Role Management__ (_SAP_CORE_BC_IAM_RM_)
+  * __Identity and Access Management - Role Assignment__ (_SAP_CORE_BC_IAM_RA_)
   * __Identity and Access Management - User Management__ (_SAP_CORE_BC_IAM_UM_)
   * __User Interface - Configuration__ (_SAP_CORE_BC_UI_)
   * __User Interface - Fiori Launchpad Design__ (_SAP_CORE_BC_UI_FLD_)  
