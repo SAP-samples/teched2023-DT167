@@ -29,6 +29,10 @@ __Note:__ The SAP business role template _SAP_BR_ADMINISTRATOR_ is the only busi
 
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/e5ae6697c85756eba45c244dc25132156d0db46e/exercises/ex0/images/Spaces_on.png)
 
+8. Open the __Settings__. You need to click on the user icon (top right) and select Settings. Verify that the __Use Spaces__ is enabled.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/86e7eb36b04da709a47f98585978d533438127c8/exercises/ex0/images/use_spaces.png)
+
 ## Access SAP Cloud Identity Services - Identity Authentication
 
 Second, we will navigate to the Identity Authentication service via the SAP S/4HANA Cloud system.
