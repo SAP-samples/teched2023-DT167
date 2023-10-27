@@ -15,7 +15,12 @@ First, we will log in the SAP S/4HANA Cloud system.
 
 __Note:__ The SAP business role template _SAP_BR_ADMINISTRATOR_ is the only business role which is delivered in the SAP namespace and is not designed to be used productively in productive scenarios. We are using it for this exercise only!
 
-6. Open the business role and navigate to the __Assigned Business Catalogs__ tab. Verify that the business catalog __Security - Identity Provider__ (_SAP_CORE_BC_SEC_IDP_PC_) is assigned to the business role.
+6. Open the business role and navigate to the __Assigned Business Catalogs__ tab. Verify that the following business catalogs are assigned to the business role:
+  * __Master Data - Manage Workforce__ (_SAP_BUM_BC_MNG_WORKFORCE_PC_)
+  * __Security - Identity Provider__ (_SAP_CORE_BC_SEC_IDP_PC_)
+  * __Identity and Access Management - User Management__ (_SAP_CORE_BC_IAM_UM_)
+  * __User Interface - Configuration__ (_SAP_CORE_BC_UI_)
+  * __User Interface - Fiori Launchpad Design__ (_SAP_CORE_BC_UI_FLD_)  
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/28f4880eec6416ca420457c4936a7071a38cb57d/exercises/ex0/images/BC_IDP.png)
 
 ## Access SAP Cloud Identity Services - Identity Authentication
