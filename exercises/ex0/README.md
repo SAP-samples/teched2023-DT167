@@ -13,7 +13,7 @@ First, we will log in the SAP S/4HANA Cloud system.
 4. Select your business user.
 5. Verify that the business role __Administrator__ (_SAP_BR_ADMINISTRATOR_) is assigned to your business user. The business roles assigned to your business user are displayed in the __Assigned Business Roles__ section.
 
-Note that the SAP business role template _SAP_BR_ADMINISTRATOR_ is the only business role which is delivered in the SAP namespace and is not designed to be used productively in productive scenarios. We are using it for this exercise only!
+__Note:__ The SAP business role template _SAP_BR_ADMINISTRATOR_ is the only business role which is delivered in the SAP namespace and is not designed to be used productively in productive scenarios. We are using it for this exercise only!
 
 6. Open the business role and navigate to the __Assigned Business Catalogs__ tab. Verify that the business catalog __Security - Identity Provider__ (_SAP_CORE_BC_SEC_IDP_PC_) is assigned to the business role.
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/28f4880eec6416ca420457c4936a7071a38cb57d/exercises/ex0/images/BC_IDP.png)
