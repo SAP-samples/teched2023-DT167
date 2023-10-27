@@ -25,6 +25,10 @@ __Note:__ The SAP business role template _SAP_BR_ADMINISTRATOR_ is the only busi
   * __User Interface - Fiori Launchpad Design__ (_SAP_CORE_BC_UI_FLD_)  
 <br>![](https://github.com/SAP-samples/teched2023-DT167/blob/28f4880eec6416ca420457c4936a7071a38cb57d/exercises/ex0/images/BC_IDP.png)
 
+7. Open the __Manage Launchpad Settings__ app. Verify that the toggle for the Spaces is turned __ON__.
+
+<br>![](https://github.com/SAP-samples/teched2023-DT167/blob/e5ae6697c85756eba45c244dc25132156d0db46e/exercises/ex0/images/Spaces_on.png)
+
 ## Access SAP Cloud Identity Services - Identity Authentication
 
 Second, we will navigate to the Identity Authentication service via the SAP S/4HANA Cloud system.
